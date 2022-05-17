@@ -45,6 +45,7 @@ footer a {
 }
 
 .wave-svg{
+  background: linear-gradient(to left, #a281ee, #513F7A);
   width: 100%;
   transform: translateY(-80px);
 }
