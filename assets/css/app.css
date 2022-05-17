@@ -161,7 +161,7 @@ footer a {
 	 content: "";
 	 width: 3px;
 	 height: 100%;
-	 background: #A079AC;
+	 background: #513F7A;
 	 left: 50%;
 	 top: 0;
 	 position: absolute;
@@ -177,7 +177,7 @@ footer a {
 	 position: relative;
 }
  #timeline .timeline-item .timeline-icon {
-	 background: #A079AC;
+	 background: ##513F7A;
 	 width: 50px;
 	 height: 50px;
 	 position: absolute;
@@ -199,7 +199,7 @@ footer a {
 }
  #timeline .timeline-item .timeline-content h2 {
 	 padding: 15px;
-	 background: #A079AC;
+	 background: #513F7A;
 	 color: #fff;
 	 margin: -20px -20px 0 -20px;
 	 font-weight: 300;
@@ -217,7 +217,7 @@ footer a {
 	 height: 0;
 	 border-top: 7px solid transparent;
 	 border-bottom: 7px solid transparent;
-	 border-left: 7px solid #A079AC;
+	 border-left: 7px solid #513F7A;
 }
  #timeline .timeline-item .timeline-content.right {
 	 float: right;
@@ -227,11 +227,11 @@ footer a {
 	 right: 45%;
 	 left: inherit;
 	 border-left: 0;
-	 border-right: 7px solid #A079AC;
+	 border-right: 7px solid #513F7A;
 }
  .btn {
-	 background-color: #A079AC;
-   border: 2px solid #A079AC;
+	 background-color: #513F7A;
+   border: 2px solid #513F7A;
    color: #fff;
    border-radius: 0;
 
@@ -254,7 +254,7 @@ footer a {
 		 left: 10%;
 		 margin-left: -6px;
 		 border-left: 0;
-		 border-right: 7px solid #A079AC;
+		 border-right: 7px solid #513F7A;
 	}
 	 #timeline .timeline-item .timeline-icon {
 		 left: 0;
