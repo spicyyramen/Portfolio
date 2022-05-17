@@ -35,7 +35,7 @@ footer a {
 }
 
 .wave {
-  background: linear-gradient(to left, #a281ee, #3e1db6);
+  background: linear-gradient(to left, #a281ee, #513F7A);
   min-height: 350px;
   color: #fff;
   display: flex;
@@ -177,7 +177,7 @@ footer a {
 	 position: relative;
 }
  #timeline .timeline-item .timeline-icon {
-	 background: ##513F7A;
+	 background: #513F7A;
 	 width: 50px;
 	 height: 50px;
 	 position: absolute;
