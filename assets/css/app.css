@@ -35,7 +35,7 @@ footer a {
 }
 
 .wave {
-  background: linear-gradient(to left, #a281ee, #513F7A);
+  background: linear-gradient(to left, #b194f6, #513F7A);
   min-height: 350px;
   color: #fff;
   display: flex;
@@ -45,19 +45,19 @@ footer a {
 }
 
 .wave-svg{
-  background: linear-gradient(to left, #a281ee, #513F7A);
+  background: linear-gradient(to left, #b194f6, #513F7A);
   width: 100%;
   transform: translateY(-80px);
 }
 
 .wave-svg-secondary{
   width: 100%;
-  background: linear-gradient(to left, #a281ee, #513F7A);
+  background: linear-gradient(to left, #b194f6, #513F7A);
 }
 
 .wave-svg-color {
   margin-top: 30px;
-  background: linear-gradient(to left, #a281ee, #513F7A);
+  background: linear-gradient(to left, #b194f6, #513F7A);
 }
 
 .custom-card {
@@ -300,7 +300,7 @@ footer a {
   left: 0;
   height: 50px;
   padding: 10px;
-  background: #A079AC;
+  background: #b194f6;
   border: 0;
   border-radius: 0;
 }
